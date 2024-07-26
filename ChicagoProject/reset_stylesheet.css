@@ -1,0 +1,29 @@
+@charset "utf-8";
+
+/*
+
+Author: Beatrice Willams
+Date: 7/12/2024
+
+Reset Stylesheet to set designs for my website.
+
+
+
+*/
+
+body, h1, h2, header, html, li, nav, p, article, ul, aside, head {
+color: black; background-color: rgb(252, 119, 65);
+margin: 2;
+padding: 3; 
+font-family: Times New Roman, Arial;
+line-height: 1; 
+}
+
+footer { color: black;
+margin: 0;
+padding: 0; 
+font-family: Times New Roman, Arial;
+line-height: 1; background-color: rgb(225, 54, 20); text-align: center;
+}
+
+

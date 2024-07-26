@@ -1,0 +1,46 @@
+@charset "utf-8";
+
+/*
+
+Author: Beatrice Willams
+Date: 7/12/2024
+
+Stylesheet to set designs for my website.
+
+
+
+*/
+
+html {background-color: black; }
+body {color: black; background-color: rgb(252, 119, 65); margin: auto; }
+header img {width: 100%; height: 400px; }
+#bodysec {color: black; background-color: rgb(252, 119, 65); margin: auto;  text-align: left;}
+p { padding: 5px; border: 20px; width: 40%; text-align: justify; }
+aside { padding: 5px; border: 20px; width: 40%; text-align: justify; }
+nav ul {list-style: none; margin: 6px; padding: 1px;  text-align: center;  }
+nav > ul > li a:link { color: purple; }
+nav > ul > li a:visited { color: black; }
+li {display: inline; margin-left: 15px;  }
+.hobbies { display: list-item; list-style-type: disc; text-align: left;}
+img  {width: 30%; height: 300px; margin: 4px; ;}
+#pic {width: 30%; height: 350px; padding: 8px; }  
+#pic2 {width: 30%; height: 350px; padding: 8px; }  
+#pic3 {width: 30%; height: 350px; padding: 8px; }  
+#pc {justify-content: center; display: flex; width: 100%;  }
+#ar {justify-content: center; display: flex; width: 100%; }
+#boat {justify-content: center; display: flex; width: 100%; } 
+#hh {justify-content: center; display: flex; width: 100%; margin: 3%;}
+#mak {width: 20%; height: 300px; }
+#vg {width: 20%; height: 300px; }
+footer { background-color: rgb(225, 54, 20); text-align: center; }
+
+
+ 
+ 
+ 
+ 
+ 
+ 
+
+
+
